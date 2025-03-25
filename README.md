@@ -16,6 +16,7 @@ All the components of each step are in this [Notebook](Uber_Pickups_Project_YP.i
 * Conclusion between the 2 models
 
 To the visualization of clustering, there are different maps than you can see in the directory `Graphes`.
+The data used for this project is only on 1 month, because with all the data, it is to much computation to handle for my machine and with google collab too. Moreover, it is enough to see a clustering trend and to imagine a generalization for later. 
 
 ### Prerequisites
 
@@ -37,11 +38,11 @@ Here are some maps examples obtained, for 1 day at 1 specific hour:
 
 * For KMeans:
 
-![KMeans](Graphes/1Day_1Hour/KMeans/KMeans_1day_1hour (3).png)
+![KMeans](Graphes/1Day_1Hour/KMeans/KMeans_1day_1hour_3.png)
 
 * For DBSCAN:
 
-![DBSCAN](Graphes/1Day_1Hour/DBSCAN/DBSCAN_1day_1hour (4).png)
+![DBSCAN](Graphes/1Day_1Hour/DBSCAN/DBSCAN_1day_1hour_4.png)
 
 * Models comparison:
 
